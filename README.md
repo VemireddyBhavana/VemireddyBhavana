@@ -12,7 +12,7 @@
 <p align="center">
   <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@
 ⚡ Exploring LLMs using Python and APIs (Gemini, Suno, Grok & more)  
 🔥 Love turning ideas into real-world projects  
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -43,7 +43,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -82,7 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana80770&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 
 
@@ -92,7 +92,7 @@
 <p align="center">
   <img src="https://github.com/Bhavana80770/Bhavana80770/blob/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 
 ## ❤️ Support Me
 
