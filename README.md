@@ -10,7 +10,7 @@
 
 <!-- 🔥 PROFILE GIF -->
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/WhatsApp%20Image%202026-03-25%20at%204.17.34%20PM.jpeg" />
 </p>
 
 ---
