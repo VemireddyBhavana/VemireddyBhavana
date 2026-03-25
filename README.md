@@ -36,11 +36,16 @@
   <a href="https://www.linkedin.com/in/vemireddy-bhavana/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
+</p>
 
-  <!-- Email -->
+<p align="center">
   <a href="mailto:bhavanavemireddy6@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  📧 bhavanavemireddy6@gmail.com
 </p>
 
 
