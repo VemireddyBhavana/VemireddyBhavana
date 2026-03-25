@@ -105,6 +105,8 @@
 ---
 
 <!-- 🔥 FOOTER -->
+<p align="center">✨ Thanks for visiting my profile ✨</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
 </p>
