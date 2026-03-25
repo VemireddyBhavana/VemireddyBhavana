@@ -17,19 +17,30 @@
 ## 🚀 About Me
 
 💡 Passionate Full Stack Developer  
-💻 Building scalable apps with MERN & Python  
-🎯 Focused on clean UI + strong backend  
-🔥 Love turning ideas into real products  
+💻 Building projects using the MERN Stack and other modern technologies  
+🤖 Currently working on Gen-AI workflows and no-code AI automation  
+⚡ Exploring LLMs using Python and APIs (Gemini, Suno, Grok & more)  
+🔥 Love turning ideas into real projects  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Midhun-Nk"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/midhun-nk"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/mike.devlogs"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://youtube.com/EduMikeStudio"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <!-- GitHub -->
+  <a href="https://github.com/Bhavana80770" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vemireddy-bhavana/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:bhavanavemireddy6@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
+  </a>
 </p>
 
 ---
