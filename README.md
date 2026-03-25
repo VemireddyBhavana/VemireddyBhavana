@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Projects+🚀" />
 </p>
 
-## 🚀 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gen--AI-Work-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-Python-2962FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-9C27B0?style=for-the-badge"/>
-</p>
-
 <!-- 🔥 PROFILE GIF -->
 <p align="center">
   <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" />
