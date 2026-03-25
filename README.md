@@ -16,8 +16,8 @@
 <!-- 🔥 SHORT INTRO -->
 <p align="center">
   💻 Full Stack Developer | 🤖 Gen-AI Explorer <br/>
-  🚀 Passionate about building real-world applications
-  🔥 Love turning ideas into real-world projects 
+      🚀 Passionate about building real-world applications
+      🔥 Love turning ideas into real-world projects 
 </p>
 
 
