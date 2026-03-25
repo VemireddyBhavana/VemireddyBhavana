@@ -5,22 +5,21 @@
 
 <!-- 🔥 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Real+World+Projects+🚀" />
 </p>
 
-<!-- 🔥 PROFILE GIF -->
+<!-- 🔥 PROFILE IMAGE -->
 <p align="center">
-  <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" />
+  <img src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" width="250" style="border-radius:50%;" />
 </p>
 
+<!-- 🔥 SHORT INTRO -->
+<p align="center">
+  💻 Full Stack Developer | 🤖 Gen-AI Explorer <br/>
+  🚀 Passionate about building real-world applications
+  🔥 Love turning ideas into real-world projects 
+</p>
 
-## 🚀 About Me
-
-💡 Passionate Full Stack Developer  
-💻 Building projects using the MERN Stack and other modern technologies  
-🤖 Currently working on Gen-AI workflows and no-code AI automation  
-⚡ Exploring LLMs using Python and APIs (Gemini, Suno, Grok & more)  
-🔥 Love turning ideas into real-world projects  
 
 ## 🌐 Connect With Me
 
