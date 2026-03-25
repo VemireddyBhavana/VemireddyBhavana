@@ -12,7 +12,6 @@
 <p align="center">
   <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/WhatsApp%20Image%202026-03-25%20at%204.17.34%20PM.jpeg" />
 </p>
-
 ---
 
 ## 🚀 About Me
