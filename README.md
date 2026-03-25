@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -84,9 +84,6 @@
 </p>
 
 
-
-
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -94,15 +91,20 @@
 </p>
 
 
-## ❤️ Support Me
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+🔹 **StudySync AI**  
+- AI-powered education platform that guides students after 10th, 12th, and diploma with career paths, entrance exams, and mentorship support  
+- Features structured navigation and smart guidance for academic decisions  
+- 🔗 Live Demo: https://study-sync-ai-be1b5585.base44.app  
 
----
+🔹 **Voice Anchor**  
+- Voice-first AI companion designed to support children with Autism during daily routines and transitions  
+- Provides calming, personalized guidance using AI voice (Murf AI) to reduce anxiety and assist caregivers  
+- 🔗 Live Demo: https://voice-anchor.vercel.app/  
+- 💻 GitHub: https://github.com/Bhavana80770/voice-anchor  
+
+
 
 <!-- 🔥 FOOTER -->
 <p align="center">✨ Thanks for visiting my profile ✨</p>
