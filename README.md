@@ -5,12 +5,12 @@
 
 <!-- 🔥 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;React+%7C+Node+%7C+MongoDB;Building+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Projects+🚀" />
 </p>
 
 <!-- 🔥 PROFILE GIF -->
 <p align="center">
-  <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/WhatsApp%20Image%202026-03-25%20at%204.17.34%20PM.jpeg" />
+  <img width="350" src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" />
 </p>
 ---
 
@@ -20,7 +20,7 @@
 💻 Building projects using the MERN Stack and other modern technologies  
 🤖 Currently working on Gen-AI workflows and no-code AI automation  
 ⚡ Exploring LLMs using Python and APIs (Gemini, Suno, Grok & more)  
-🔥 Love turning ideas into real projects  
+🔥 Love turning ideas into real-world projects  
 
 ---
 
@@ -28,18 +28,18 @@
 
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/Bhavana80770" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/Bhavana80770">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vemireddy-bhavana/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/vemireddy-bhavana/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
 
   <!-- Email -->
-  <a href="mailto:bhavanavemireddy6@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
+  <a href="mailto:bhavanavemireddy6@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
   </a>
 </p>
 
@@ -79,10 +79,13 @@
   <img src="https://streak-stats.demolab.com?user=Bhavana80770&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana80770&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 
-## 🐍 Contribution Snake (ULTRA PRO 🔥)
+
 
 ## 🐍 Contribution Snake
 
