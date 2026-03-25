@@ -49,22 +49,22 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,typescript,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript" />
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 </p>
 
-### 🧰 Tools
+### 🤖 AI / Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
 </p>
 
 ---
@@ -72,21 +72,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavana80770&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Bhavana80770&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+
 ## 🐍 Contribution Snake (ULTRA PRO 🔥)
 
-<p align="center">
-  <img src="https://github.com/Midhun-Nk/Midhun-Nk/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/Bhavana80770/Bhavana80770/blob/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## ❤️ Support Me
