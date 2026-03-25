@@ -13,11 +13,10 @@
   <img src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" width="250" style="border-radius:50%;" />
 </p>
 
-<!-- 🔥 SHORT INTRO -->
 <p align="center">
-  💻 Full Stack Developer | 🤖 Gen-AI Explorer <br/>
-      🚀 Passionate about building real-world applications
-      🔥 Love turning ideas into real-world projects 
+  💻 <b>Full Stack Developer</b> | 🤖 <b>Gen-AI Explorer</b> <br/><br/>
+  🚀 Passionate about building real-world applications <br/>
+  🔥 Love turning ideas into impactful projects
 </p>
 
 
