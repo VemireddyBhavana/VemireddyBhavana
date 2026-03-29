@@ -34,10 +34,9 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:bhavanavemireddy6@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-  </a>
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhavanavemireddy6@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
 
 ## 🛠️ Tech Stack
 
