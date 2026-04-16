@@ -80,7 +80,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VemireddyBhavana&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/VemireddyBhavana/VemireddyBhavana/output/github-contribution-grid-snake.svg" />
 </p>
 
 
