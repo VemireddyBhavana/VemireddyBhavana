@@ -10,7 +10,7 @@
 
 <!-- 🔥 PROFILE IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bhavana80770/Bhavana80770/main/photo.jpeg" width="250" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/VemireddyBhavana/VemireddyBhavana/main/photo.jpeg" width="250" style="border-radius:50%;" />
 </p>
 
 <p align="center">
