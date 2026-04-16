@@ -80,7 +80,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Bhavana80770/Bhavana80770/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/VemireddyBhavana/VemireddyBhavana/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
