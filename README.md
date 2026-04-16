@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/Bhavana80770">
+  <a href="https://github.com/VemireddyBhavana">
     <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
 
