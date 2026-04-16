@@ -64,12 +64,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavana80770&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VemireddyBhavana&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavana80770&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VemireddyBhavana&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/VemireddyBhavana/VemireddyBhavana/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VemireddyBhavana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
