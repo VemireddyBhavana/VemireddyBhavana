@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Real+World+Projects+🚀" />
 </p>
 
-<!-- 🔥 PROFILE IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VemireddyBhavana/VemireddyBhavana/main/photo.jpeg" width="250" style="border-radius:50%;" />
-</p>
+
 
 <p align="center">
   💻 <b>Full Stack Developer</b> | 🤖 <b>Gen-AI Explorer</b> <br/><br/>
