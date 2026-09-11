@@ -1,42 +1,54 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Vemireddy%20Bhavana&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=250&section=header&text=Bhavana%20Vemireddy&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20GenAI%20Explorer&descAlign=50&descAlignY=75"/>
 </p>
 
 <!-- 🔥 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Exploring+Gen-AI+%26+LLMs;Building+Real+World+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;Aspiring+Full+Stack+Developer;Learning+MERN+Stack;Building+Real+World+Projects;Exploring+GenAI+%26+LLMs;Always+Learning+New+Technologies+🚀"/>
 </p>
 
+<!-- 🔥VISITOR COUNTER -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VemireddyBhavana&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+# 👩‍💻 About Me
+
+🎓 B.Sc Computer Science Student
+
+💻 Aspiring Full Stack Developer
+
+🚀 Passionate about building scalable web applications
+
+🌱 Currently learning MERN Stack & GenAI
+
+🤖 Exploring AI, LLMs & Prompt Engineering
+
+🎯 Goal: Software Engineer
+
+⚡ Fun Fact:
+I love turning ideas into real-world applications.
 
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | 🤖 <b>Gen-AI Explorer</b> <br/><br/>
-  🚀 Passionate about building real-world applications <br/>
-  🔥 Love turning ideas into impactful projects
-</p>
 
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/VemireddyBhavana">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vemireddy-bhavana/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-
-  <!-- Email -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhavanavemireddy6@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+<a href="https://github.com/VemireddyBhavana">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/vemireddy-bhavana/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
+<a href="mailto:bhavanavemireddy6@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+</p>
+
+
+## 🛠️ Tech Stack
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript" />
