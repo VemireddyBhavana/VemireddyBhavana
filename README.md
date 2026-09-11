@@ -1,6 +1,6 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=250&section=header&text=Bhavana%20Vemireddy&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20GenAI%20Explorer&descAlign=50&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=250&section=header&text=Vemireddy%20Bhavana&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20GenAI%20Explorer&descAlign=50&descAlignY=75"/>
 </p>
 
 <!-- 🔥 TYPING EFFECT -->
